@@ -23,7 +23,7 @@
   <a href = "mailto:anap.apolinario.oliv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/ana-paula-oliveira-7044b4224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/greengeller/greengeller/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
 
